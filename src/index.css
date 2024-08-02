@@ -1,0 +1,19 @@
+* {
+    font-family: "ALS Gorizont Regular Expanded";
+    letter-spacing: 1px;
+  
+  }
+  
+  body{
+      margin: 0;
+      
+  }
+  
+  #root {
+    background-color: black;
+  
+  }
+  
+  ::-webkit-scrollbar {
+      width: 0;
+  }

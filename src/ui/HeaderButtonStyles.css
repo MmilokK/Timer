@@ -1,0 +1,16 @@
+button {
+  border: 0;
+  color: #29a354;
+  text-decoration: underline;
+  background: transparent;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 12px;
+  padding: 0;
+}
+
+.add-button {
+  text-decoration: none;
+  font-size: 30px;
+}

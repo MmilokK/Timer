@@ -1,0 +1,17 @@
+.timer-setup-page{
+  background: linear-gradient(180deg, #000000 20%, #1A1F23 30%, #1A1F23 41%, #000000 51%, #1A1F23 );
+  padding: 23px 26px;
+  height: 422px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 26.4px;
+  text-align: left;
+  color:white;
+}
+
+

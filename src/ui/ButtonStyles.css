@@ -1,0 +1,37 @@
+.start {
+  background-color: #29a354;
+  margin-top: 53px;
+  width: 206px;
+  height: 56px;
+  border-radius: 32px;
+  box-shadow: -4px -6px 5.5px 0px #00000040 inset;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 22px;
+  align-self: center;
+}
+
+.pause-continue {
+  width: 161px;
+  height: 43.77px;
+  border-radius: 32px;
+  background: var(--gold-drop, #f9891c);
+  text-align: center;
+  box-shadow: -4px -6px 5.5px 0px #00000040 inset;
+  color: white;
+  text-decoration: none;
+}
+
+.cancel {
+  background: var(--whitesmoke, #757677);
+  width: 161px;
+  height: 43.77px;
+  border-radius: 32px;
+  text-align: center;
+  box-shadow: -4px -6px 5.5px 0px #00000040 inset;
+  color: white;
+  text-decoration: none;
+}

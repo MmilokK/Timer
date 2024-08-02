@@ -1,0 +1,21 @@
+.timer-display-page {
+  background-color: #1a1f23;
+  padding: 23px 26px;
+  height: 422px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.progressbar {
+  width: 257px;
+  height: 257px;
+  font-weight: 800;
+  line-height: 44px;
+  
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}

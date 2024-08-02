@@ -1,0 +1,9 @@
+.timers-page{
+    background-color: #1a1f23;
+  padding: 23px 26px;
+  height: 422px;
+}
+.timers-list{
+    overflow-y: scroll;
+    height: 350px;
+}
